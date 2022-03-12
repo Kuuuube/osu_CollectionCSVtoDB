@@ -1,4 +1,4 @@
-﻿    using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 
@@ -8,8 +8,8 @@ namespace CollectionCSVtoDB
     {
         static void Main(string[] args)
         {
-            string input = "placeholder";
-            string output = "placeholder";
+            string input;
+            string output;
 
             if (args.Length != 0)
             {
