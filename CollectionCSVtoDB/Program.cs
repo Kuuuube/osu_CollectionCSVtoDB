@@ -29,7 +29,7 @@ namespace CollectionCSVtoDB
             foreach (string line in lines)
             {
                 var values = line.Split(",");
-                md5.Add(values[2]);
+                md5.Add(values[0]);
             }
             int length = md5.Count;
             BinaryWriter BinWriter = new BinaryWriter(File.Create(output));
