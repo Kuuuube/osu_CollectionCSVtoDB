@@ -4,7 +4,7 @@ Accepts CSV files with MD5 in the first column or any file with a newline separa
 
 ## Downloads
 
-Downloads with are available in [Releases](https://github.com/Kuuuube/osu_CollectionCSVtoDB/releases).
+Downloads are available in [Releases](https://github.com/Kuuuube/osu_CollectionCSVtoDB/releases).
 
 ## Usage
 
